@@ -13,7 +13,7 @@ function stop(){
 
 function reset(){
     second = 0;
-    document.getElementById('time').innerHTML = "0";
+    document.getElementById('time').innerHTML = "00";
 }
 
 function stopWatch(){
